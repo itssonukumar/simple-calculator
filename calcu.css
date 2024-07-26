@@ -15,7 +15,7 @@ body{
 
 }
 .container{
-    background-color: black;
+    background-color: rgb(10, 5, 5);
     width: 23rem;
     height: 35rem;
     border-radius: 3rem;
