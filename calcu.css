@@ -28,7 +28,7 @@ body{
     text-align: right;
     padding: .5rem;
     font-size: 2rem;
-    background-color: rgb(34,34,34);
+    background-color: rgb(9, 4, 4);
     border-radius: 3rem 3rem 0 0;
     color: antiquewhite;
     pointer-events: none;
@@ -49,7 +49,7 @@ body{
     font-size: 1.2rem;
     border-radius: 1rem;
     border: none;
-    box-shadow:-5px -5px 3px rgb(0,0,0,0.527) inset;
+    box-shadow:-5px -5px 3px rgba(8, 0, 0, 0.527) inset;
     
 }
 .btn_container .green{
